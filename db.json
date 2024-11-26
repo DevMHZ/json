@@ -1,0 +1,12 @@
+{
+    "students": [
+      { "id": 1, "name": "Alice", "age": 22 },
+      { "id": 2, "name": "Bob", "age": 25 },
+      { "id": 3, "name": "Charlie", "age": 23 }
+    ],
+    "courses": [
+      { "id": 1, "title": "Mathematics", "duration": "3 months" },
+      { "id": 2, "title": "Physics", "duration": "4 months" }
+    ]
+  }
+  
